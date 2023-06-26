@@ -1,1 +1,6 @@
-
+getName();
+console.log(x);
+var x = 7;
+funtion getName() {
+console.log("Welcome JavaScript")
+}
